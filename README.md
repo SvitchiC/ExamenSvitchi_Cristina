@@ -1,0 +1,3 @@
+Biletul numărul 18.Creaţi un repozitoriu nou pe GitHub, în cadrul organizaţiei PAPP2041 cu numele ExamenNume_Prenume. Clonaţi repozitoriul pe calculatorul local. În repozitoriul local adăugaţi un fişier „README.md" cu conținutul numărul biletului şi descrierea proiectului, adăugaţi un fişier .gitignore, care va ignora încărcarea tuturor fişierelor cu extensia „pdf" şi „docx".
+
+Creaţi ramura „Staging" şi adăugați în ea fişierele necesare pentru proiectul web. Faceţi commit-uri periodice pentru fiecare adăugare de fişier, utilizând un mesaj clar şi precis pentru fiecare commit. După finalizare împingeți ramura „Staging" pe GitHub. Concatenaţi ramura „Staging" cu ramura principală „main", folosind linia de comandă Git..
